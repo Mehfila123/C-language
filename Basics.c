@@ -13,6 +13,13 @@
 #include <stdio.h> 
 int main (){
     printf("This is Mehfila Parkkulthil") ;
-    return 0 ;
+
+     // adding variable
+
+     float pi = 3.14;
+     char star = * ;
+     int age = 23;
+     
 }
+
  
