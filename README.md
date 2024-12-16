@@ -9,7 +9,7 @@ Projects from basics to advanced.
 
     }
 ```
-2. printf function - <br<
+ printf function - <br>
    The printf function is used to output (print) text to the console. It's part of the standard input-output library (stdio.h).
   ```
 #include <stdio.h>
@@ -19,11 +19,26 @@ int main() {
     return 0;
 }
 ```
+
  Decalaration function- <br>
  
  Declaration is when you declare a variable, specifying its type and name. It reserves memory space for the variable.
+ ```
+ int number;
+float price;
+char letter;
+```
+Here, number is an integer, price is a floating-point number(decimal), and letter is a character.
  
- Initialization funtion
+ Initialization funtion - <br>
+ Initialization is assigning an initial value to a variable at the time of declaration.
+```
+ int number = 10;
+float price = 36.5;
+char letter = 'A';
+
+```
+
  
  Output
  
