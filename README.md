@@ -7,4 +7,11 @@ Projects from basics to advanced.
 
      }
 ```
-  
+``` 
+   #include <stdio.h> 
+    #include <math.h>
+    int main (){
+
+    }
+```
+
