@@ -1,3 +1,4 @@
 # C-language
 Projects from basics to advanced.
-1. C - basics .
+1. C - basic syntax
+   
