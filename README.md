@@ -2,8 +2,4 @@
 Projects from basics to advanced.
 1. C - basic syntax
 
-      #include <stdio.h>
-     int main(){
-
-     }
-   
+  
